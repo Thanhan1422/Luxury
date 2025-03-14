@@ -1,0 +1,22 @@
+{
+  "name": "sever",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thanhan1422/Luxury.git"
+  },
+  "author": "Moon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thanhan1422/Luxury/issues"
+  },
+  "homepage": "https://github.com/Thanhan1422/Luxury#readme",
+  "description": "",
+  "dependencies": {
+    "sever": "file:"
+  }
+}
